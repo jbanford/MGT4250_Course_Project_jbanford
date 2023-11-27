@@ -16,4 +16,5 @@ This is especially **important** because
 Analyzing trends in the music industry
 ## Interpreting Visualizations
 <img width="508" alt="Screen Shot 2023-11-27 at 2 23 40 PM" src="https://github.com/jbanford/mgt4250test/assets/152214680/b8b66b20-a905-4a7e-8c87-f64fd355cf85">
+
 ## Discussion & Summary
