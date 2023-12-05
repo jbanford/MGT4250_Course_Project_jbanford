@@ -12,6 +12,7 @@ This is especially **important** because
 2. Second reason
 3. I focused on the columns year and genre. Year is an integer in the data and genre is a type object. The genre column allows us to identify and analyze unique values and we use year to filter by specific year from 2012-2022.
 ## Discussion & Summary
+<img width="509" alt="Screen Shot 2023-12-05 at 4 08 14 PM" src="https://github.com/jbanford/mgt4250test/assets/152214680/68e0bda8-01e0-4a8d-8e3c-51b55a4df6aa">
 
 
 ## Project description
