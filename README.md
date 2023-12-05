@@ -1,8 +1,12 @@
-[Link to Pie Chart Visualization III](https://github.com/jbanford/mgt4250test/blob/main/melter.ipynb)
+#MGT4250 Course Project
+[Link to Pie Chart Visualization III](https://github.com/jbanford/mgt4250test/blob/main/visual3.py)
+### Questions of interest
+These are my questions. 
+- This is question 1
+- This is question 2
+- This is question 3
 
 
-
-# mgt4250test
 ## Project description
 ### Questions of interest
 These are my questions. 
