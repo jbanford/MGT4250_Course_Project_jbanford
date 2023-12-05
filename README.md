@@ -14,6 +14,8 @@ This is especially **important** because
 ## Discussion & Summary
 <img width="509" alt="Screen Shot 2023-12-05 at 4 08 14 PM" src="https://github.com/jbanford/mgt4250test/assets/152214680/68e0bda8-01e0-4a8d-8e3c-51b55a4df6aa">
 
+clone this repository gitclone 
+
 
 ## Project description
 ### Questions of interest
