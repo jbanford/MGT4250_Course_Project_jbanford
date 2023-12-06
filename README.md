@@ -1,8 +1,10 @@
-#MGT4250 Course Project
-##Jacquelyn Banford
+# MGT4250 Course Project
+## Jacquelyn Banford
 
 [Link to Treemap - Visualization I](https://prod-useast-b.online.tableau.com/t/jbanford/views/VisualizationI/Sheet1?:origin=card_share_link&:embed=n)
+
 [Link to Choropleth Map - Visualization II](https://prod-useast-b.online.tableau.com/t/jbanford/views/ChoroplethMapVisualizationII/Sheet1?:origin=card_share_link&:embed=n)
+
 [Link to Pie Chart - Visualization III](https://github.com/jbanford/mgt4250test/blob/main/visual3.py)
 
 ### Questions of Interest 
