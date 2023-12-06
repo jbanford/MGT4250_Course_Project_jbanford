@@ -20,27 +20,5 @@
 2. The choropleth map visually displays the geographical distribution of music genre preferences across states. Variances in color indicate the prevelance of the top genres listed. Understanding regional variations in music preferences is critical for tailoring marketing and promotional strategies to specific demographics. Artists and management labels can use this information to optimize concert tours, target promotional campaigns, and develop a resonance with local markets. Such a visualization exposes the cultural diversity within the music industry, fostering a deeper appreciation for different genres in various parts of the nations cultural landscape.
 3. The pie chart, with its temporal filter, provides a dynamic view of how the popularity of different genres has evolved over the years. Changes in slice sizes reflect shifting trends which is essential for identifying emerging patterns, cultural shifts, and cyclical trends. This information is invaluable for stakeholders in the music industry to anticipate future market trends, make strategic decisions on artist signings and promotions, and adapt their business models to stay relevant in such a dynamic and ever-evolving market. 
 ## Discussion & Summary
-<img width="509" alt="Screen Shot 2023-12-05 at 4 08 14 PM" src="https://github.com/jbanford/mgt4250test/assets/152214680/68e0bda8-01e0-4a8d-8e3c-51b55a4df6aa">
-
-clone this repository gitclone https://github.com/jbanford/mgt4250test.git 
-
-
-## Project description
-### Questions of interest
-These are my questions. 
-- This is question 1
-- This is question 2
-- This is question 3
-## Data description
-This is especially **important** because 
-1. First reason
-2. Second reason
-3. Third reason [LINK](https://www.elon.edu)
-<img width="87" alt="Screen Shot 2023-11-27 at 2 18 41 PM" src="https://github.com/jbanford/mgt4250test/assets/152214680/380d4ffc-a9e5-4d5b-877b-93e674260f5f">
-
-## Data Description
-Analyzing trends in the music industry
-## Interpreting Visualizations
-<img width="508" alt="Screen Shot 2023-11-27 at 2 23 40 PM" src="https://github.com/jbanford/mgt4250test/assets/152214680/b8b66b20-a905-4a7e-8c87-f64fd355cf85">
-
-
+[Link to article](https://royalsocietypublishing.org/doi/10.1098/rsos.171274)
+This article provides an in-depth analysis of the dynamics influencing the success of songs in the music industry spanning over the last three decades, and leverages a vast dataset of over 500,000 songs. The findings expose interesting temporal trends, specifically a notable decrease in "happy" and "bright" songs, countered by a rise in "sad" songs, as well as a multi-decadal increase in dancing songs. This is in alignment with current preferences of pop and electronic over traditional genres such as classical and jazz, but it was still challenging to predict song success solely based on mood characteristics. The author tried to apply machine learning as a prediction method based on acoustic features and on historical trends of top songs but the study encountered challenges with a prediction accuracy of 0.74. By introducing what the study labeled as the "superstar variable", the machine predictions accuracy increased to 0.86. This aspect includes social popularity which serves as an influencial factor in song success on the charts. Overall, the study combined a detailed analysis of temporal trends, genre influences, and the characteristics of successful songs with machine learning approaches to predict success, revealing insights into the complex dynamics of the music industry.
