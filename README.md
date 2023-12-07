@@ -1,4 +1,4 @@
-# MGT4250 Course Project
+# MGT4250 Course Project Fall 2023 - Data Visualization & Storytelling - Elon University
 ## Jacquelyn Banford
 
 [Link to Treemap - Visualization I](https://prod-useast-b.online.tableau.com/t/jbanford/views/VisualizationI/Sheet1?:origin=card_share_link&:embed=n)
