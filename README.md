@@ -9,15 +9,15 @@
 
 [Link to Pie Chart - Visualization III](https://github.com/jbanford/mgt4250test/blob/main/visual3.py)
 
-### Questions of Interest 
+## Questions of Interest 
 1. What are the dominant music genres over the past 10 years, and how do they compare in terms of popularity and market share?
 2. How does the popularity of music genres vary across different states in the America, and what regional patterns or trends emerge?
 3. How have the proportions of the top 10 music genres changed over the past decade, and what insights can be drawn from these temporal trends?
-### Data Description 
+## Data Description 
 1. My treemap is accessible via the link on the top of this repository. It brings the viewers to the treemap formed on tableau. I complied a list of the top 10 songs from 2012-2022 and their respective genres then created an excel table of each genre and their frequencies. Using this data, I designed a treemap to visualize the most dominant genres in the top 10 songs over the past decade.
 2. The choropleth map is also available through the link above and depicts the most popular genre by state in the United States. I created an excel sheet with columns "State" and "Genre" which, when put into tableau, formed a visual representation of the most popular genre by state. This allows a simple way to visualize regional preferences in music.
 3. The final visualization can be accessed by clicking the link and running the python code to access the streamlit page. I focused on the columns "Year" and "Genre" with year being an integer and genre being a type object in the data. The genre column allows us to identify and analyze unique values and the platform uses year to filter by specific year from 2012-2022.
-### Interpreting Visualizations
+## Interpreting Visualizations
 1. The treemap visualization illustrates the dominance of specific music genres over the past decade, highlighting their relative market share and popularity. The larger rectangles represent genres with a higher share, offering a visual snapshot of the industry's landscape. Understanding these dominant genres provides valuable insights into the evolving preferences of music consumers. This information is crucial for artists, producers, and record labels to make informed decisions about the type of music to create, invest in, and promote. It also helps streaming platforms tailor their recommendations which improves user engagement and satisfaction.
 2. The choropleth map visually displays the geographical distribution of music genre preferences across states. Variances in color indicate the prevelance of the top genres listed. Understanding regional variations in music preferences is critical for tailoring marketing and promotional strategies to specific demographics. Artists and management labels can use this information to optimize concert tours, target promotional campaigns, and develop a resonance with local markets. Such a visualization exposes the cultural diversity within the music industry, fostering a deeper appreciation for different genres in various parts of the nations cultural landscape.
 3. The pie chart, with its temporal filter, provides a dynamic view of how the popularity of different genres has evolved over the years. Changes in slice sizes reflect shifting trends which is essential for identifying emerging patterns, cultural shifts, and cyclical trends. This information is invaluable for stakeholders in the music industry to anticipate future market trends, make strategic decisions on artist signings and promotions, and adapt their business models to stay relevant in such a dynamic and ever-evolving market. 
