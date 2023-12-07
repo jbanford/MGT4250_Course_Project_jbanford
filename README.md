@@ -7,7 +7,7 @@
 
 [Link to Choropleth Map - Visualization II](https://public.tableau.com/views/VisualizationIIChoroplethMap/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-[Link to Pie Chart - Visualization III](https://github.com/jbanford/mgt4250test/blob/main/visual3.py)
+[Link to Pie Chart - Visualization III](https://mgt4250courseprojectjbanford-x3gg3ldnhyjcjls3aidwdd.streamlit.app/)
 
 ## Questions of Interest 
 1. What are the dominant music genres over the past 10 years, and how do they compare in terms of popularity and market share?
