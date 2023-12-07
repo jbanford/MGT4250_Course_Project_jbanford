@@ -1,6 +1,5 @@
 import subprocess
-
-subprocess.run(["pip", "install", "-r", "requirements.txt"]
+subprocess.run(["pip", "install", "-r", "requirements.txt"])
 import streamlit as st
 st.set_option('deprecation.showPyplotGlobalUse', False)
 import pandas as pd
