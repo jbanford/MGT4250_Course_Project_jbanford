@@ -3,9 +3,9 @@
 
 ### Jacquelyn Banford
 
-[Link to Treemap - Visualization I]([https://prod-useast-b.online.tableau.com/t/jbanford/views/VisualizationI/Sheet1?:origin=card_share_link&:embed=n](https://public.tableau.com/views/VisualizationITreemap/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link))
+[Link to Treemap - Visualization I](https://public.tableau.com/views/VisualizationITreemap/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-[Link to Choropleth Map - Visualization II]([https://prod-useast-b.online.tableau.com/t/jbanford/views/ChoroplethMapVisualizationII/Sheet1?:origin=card_share_link&:embed=n](https://public.tableau.com/views/VisualizationIIChoroplethMap/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link))
+[Link to Choropleth Map - Visualization II](https://public.tableau.com/views/VisualizationIIChoroplethMap/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 [Link to Pie Chart - Visualization III](https://github.com/jbanford/mgt4250test/blob/main/visual3.py)
 
